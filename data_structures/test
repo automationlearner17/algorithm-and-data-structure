@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+import random
+
+
+list = [8,7,9,77,100,3]
+
+ar = random.shuffle(1,2,3,4)
+
+print(ar)
