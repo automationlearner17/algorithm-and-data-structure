@@ -101,12 +101,9 @@ class Linkedlist:
          current = current.next_node
          index = index - 1
        return current
-      
+
          
-          
-            
-            
-           
+         
    
    def __repr__(self):
       nodes=[]
